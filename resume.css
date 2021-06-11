@@ -1,0 +1,57 @@
+﻿body{
+    background-image:url(images/bgprog.jpg);
+    background-repeat: no-repeat;
+    backdrop-filter:blur(5px);
+    background-size:cover;
+    background-attachment: fixed;
+}
+h1{ font-size:40px;
+    padding-right:20px;
+    padding-left:20px;
+    text-align:center;
+    color:white;
+}
+.name{
+    font-size:40px;
+    color:white;
+    text-align:right;
+}
+.emailid{
+    text-decoration: none;
+    text-align:right;
+    color: yellow;
+    font-size:30px;
+}
+.mobileno{
+    font-size:35px;
+    color: yellow;
+    text-align:right;
+    text-decoration: none;
+}
+.objective{
+  font-size:30px;
+  color: white;
+  text-align:left;  
+}
+.skills{
+    text-align:left;
+    color: white;
+    font-size:40px;
+    margin:60px
+}
+.listitems{
+    font-size:30px;
+    color: white;
+}
+.hobbies{
+    display: inline;
+    text-align: center;
+    color: white;
+    font-size:40px;
+}
+.hobbieslist{
+    display: inline;
+    text-align:center;
+    font-size:30px
+    color: white;
+}
